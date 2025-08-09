@@ -18,7 +18,7 @@ Dapat dijalankan sepenuhnya **offline**, mendukung drag-and-drop, evaluasi bar r
 
 ## 📦 Yang Harus Dipersiapkan
 1. **Python 3.8+** sudah terinstall.
-2. **Pygame** dan **python-chess** (akan diinstal saat setup).
+2. Library **Pygame** dan **python-chess** 
 3. **Stockfish engine** untuk Windows:
    - Download di [https://stockfishchess.org/download/](https://stockfishchess.org/download/)
    - Pilih versi Windows yang sesuai CPU (misalnya `x86-64-avx2`).
