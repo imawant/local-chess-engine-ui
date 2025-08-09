@@ -33,4 +33,3 @@ Dapat dijalankan sepenuhnya **offline**, mendukung drag-and-drop, evaluasi bar r
 ```bash
 git clone https://github.com/imawant/local-chess-engine-ui.git
 cd local-chess-engine-ui
-**
