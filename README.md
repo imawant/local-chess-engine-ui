@@ -1,6 +1,8 @@
 # local-chess-engine-ui
 
-<img width="440" height="350" alt="image" src="https://github.com/user-attachments/assets/0e6660c4-cece-42fb-87d4-f675352d30d1" />
+<img width="440" height="350" alt="image" src="https://github.com/user-attachments/assets/0e6660c4-cece-42fb-87d4-f675352d30d1" />      
+   <img width="440" height="350" alt="image" src="https://github.com/user-attachments/assets/5aa26dca-bb80-4634-ab8d-1a49404eaa4e" />
+
 
 This project is a **Pygame-based graphical chess interface** integrated with **Stockfish** as a local chess engine.
 It runs fully **offline**, supports drag-and-drop, real-time evaluation bar, undo/redo, and engine move hints.
