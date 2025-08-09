@@ -26,7 +26,7 @@ Dapat dijalankan sepenuhnya **offline**, mendukung drag-and-drop, evaluasi bar r
    - Pilih versi Windows yang sesuai CPU (misalnya `x86-64-avx2`).
    - Ekstrak ZIP dan salin **path lengkap** file `.exe` (misalnya  
      `C:\Users\NamaAnda\Downloads\stockfish\stockfish-windows-x86-64-avx2.exe`).
-   - ganti bagian ini menjadi path menuju file stockfish binary yang telah diextract sebelumnya
+   - ganti bagian STOCKFISH_PATH menjadi path menuju file stockfish binary yang telah diextract sebelumnya
      <img width="365" height="30" alt="image" src="https://github.com/user-attachments/assets/0b04eb1e-134f-49f5-9813-e7410967bf03" />
 
      contoh:
